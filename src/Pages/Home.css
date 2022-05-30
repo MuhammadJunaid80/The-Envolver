@@ -1,0 +1,37 @@
+#ROW{
+    height: 5.7497in;
+}
+#img{
+    min-width: 100%;
+    height: auto;
+}
+
+  
+ 
+  
+  /* Style the button and place it in the middle of the container/image */
+  #btn1 {
+    position: absolute;
+    top: 52%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    
+    padding: 12px 24px;
+    
+  }
+  
+#btn2{
+    position: absolute;
+    top: 52%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    
+    padding: 12px 24px;
+   
+
+}
+.row{
+    height: 200px;
+}

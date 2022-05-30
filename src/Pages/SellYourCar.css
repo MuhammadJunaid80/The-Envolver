@@ -1,0 +1,10 @@
+#buttono{
+    position: absolute;
+    left: 40%;
+    top: 64%;
+}
+
+#hei{
+    height: 1000px;
+    background-color: rgb(39, 37, 37);
+}
